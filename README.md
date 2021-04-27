@@ -1,5 +1,8 @@
 # Terminal
 
+Changes introduced by sc:
+Add page level auto-refresh support
+
 ![Terminal](https://github.com/panr/hugo-theme-terminal/blob/master/images/screenshot.png?raw=true)
 
 ### DEMO - https://hugo-terminal.now.sh/
